@@ -1,0 +1,126 @@
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.exe
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.deps.json
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.runtimeconfig.json
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.pdb
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfo.cs
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.TodoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoAPI.props
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPI.props
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoAPI.props
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\scopedcss\bundle\TodoAPI.styles.css
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CopyComplete
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\refint\TodoAPI.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.pdb
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.genruntimeconfig.cache
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\ref\TodoAPI.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\Minimal API\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.exe
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.deps.json
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.pdb
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.TodoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoAPI.props
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPI.props
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoAPI.props
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\scopedcss\bundle\TodoAPI.styles.css
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\refint\TodoAPI.dll
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.pdb
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\ref\TodoAPI.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.exe
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.deps.json
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\TodoAPI.pdb
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.TodoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoAPI.props
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPI.props
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoAPI.props
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\scopedcss\bundle\TodoAPI.styles.css
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\refint\TodoAPI.dll
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.pdb
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\TodoAPI.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות\פרקטיקוד\הגשה 1\minimalAPI\Minimal API\TodoAPI\obj\Debug\net7.0\ref\TodoAPI.dll
