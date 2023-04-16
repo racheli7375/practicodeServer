@@ -27,6 +27,8 @@ if (app.Environment.IsDevelopment())
 });
 
 }
+app.MapGet("/", ()=>"working");
+   
 
 app.MapGet("/todoitems", async (ToDoDbContext db) =>
     await db.Items.ToListAsync());

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "anX/aJphvClya/W2ZLKNAgm2gPhqsB2SG8jDwuBmfN7/xeIbA/I9pFuZdwkEg2M8r+TikMBqV/WobYFvL/hViw==",
+  "dgSpecHash": "5vrYb8nm9NIlgiC1vKNE9h2q1yxNTE8ouIadfbsRitg7dMUfAS2P9B/Fq2bFuJ51jAy/Vq/Iavyfj0+5BWUayg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\תכנות\\פרקטיקוד\\הגשה 1\\minimalAPI\\Minimal API\\TodoAPI\\TodoAPI.csproj",
+  "projectFilePath": "c:\\Users\\user1\\Desktop\\תכנות\\פרקטיקוד\\הגשה 1\\minimalAPI\\Minimal API\\TodoAPI\\TodoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
