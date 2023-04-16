@@ -1,14 +1,14 @@
-FROM mcr.microsoft.com/dotnet/aspnet:7.0-focal AS base
+#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS base
 WORKDIR /app
 EXPOSE 80
 EXPOSE 443
 
-ENV ASPNETCORE_URLS=http://+:80
-
-FROM mcr.microsoft.com/dotnet/sdk:7.0-focal AS build
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-COPY ["TodoAPI.csproj", "./"]
-RUN dotnet restore "TodoAPI.csproj"
+COPY ["TodoAPI.csproj", "."]
+RUN dotnet restore "./TodoAPI.csproj"
 COPY . .
 WORKDIR "/src/."
 RUN dotnet build "TodoAPI.csproj" -c Release -o /app/build
